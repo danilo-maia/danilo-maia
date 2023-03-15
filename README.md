@@ -16,5 +16,5 @@ I'm constantly learning new skills and technologies to improve as a developer. C
 I'm always interested in connecting with fellow developers and learning from their experiences. You can reach me at:
 
    - LinkedIn: https://www.linkedin.com/in/danilo-isaque-sousa-maia
-   - Email: isaqquemaiia7@outlook.com
+   - Email: isaqquemaiia7@outlook.com.br
 
